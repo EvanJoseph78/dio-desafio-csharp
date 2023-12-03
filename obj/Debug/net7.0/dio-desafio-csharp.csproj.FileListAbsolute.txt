@@ -1,0 +1,15 @@
+/home/evan/projetos/dio-desafio-csharp/bin/Debug/net7.0/dio-desafio-csharp
+/home/evan/projetos/dio-desafio-csharp/bin/Debug/net7.0/dio-desafio-csharp.deps.json
+/home/evan/projetos/dio-desafio-csharp/bin/Debug/net7.0/dio-desafio-csharp.runtimeconfig.json
+/home/evan/projetos/dio-desafio-csharp/bin/Debug/net7.0/dio-desafio-csharp.dll
+/home/evan/projetos/dio-desafio-csharp/bin/Debug/net7.0/dio-desafio-csharp.pdb
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.csproj.AssemblyReference.cache
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.AssemblyInfoInputs.cache
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.AssemblyInfo.cs
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.csproj.CoreCompileInputs.cache
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.dll
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/refint/dio-desafio-csharp.dll
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.pdb
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/dio-desafio-csharp.genruntimeconfig.cache
+/home/evan/projetos/dio-desafio-csharp/obj/Debug/net7.0/ref/dio-desafio-csharp.dll

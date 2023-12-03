@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EH1T4yrrgYt8DG6CfnVgRly+0hSD6V/nXWQY1flrVKYb9upDfGNUYrtAApn26DGLqXSOui4skekoNcqtwDGv7g==",
+  "success": true,
+  "projectFilePath": "/home/evan/projetos/dio-desafio-csharp/dio-desafio-csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
